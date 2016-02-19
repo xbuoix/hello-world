@@ -1,2 +1,2 @@
 # hello-world
-Learning how to use github tehr gith way
+Learning how to use github the right way
